@@ -1,0 +1,49 @@
+#face {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 50%;
+    background-color: yellow;
+}
+
+#eye1 {
+    width: 48px;
+    height: 55px;
+    position: absolute;
+    top: 70px;
+    bottom: 55px;
+    left: 25%;
+    border-radius: 50%;
+    box-shadow: 0px -10px 0 0
+    #664500;
+}
+
+#eye2 {
+    width: 48px;
+    height: 55px;
+    position: absolute;
+    top: 70px;
+    right: 55px;
+    border-radius: 50%;
+    box-shadow: 0px -10px 0 0
+    #664500;
+}
+
+#smile {
+    width: 130px;
+    height: 90px;
+    position: absolute;
+    bottom: 60px;
+    left: 25%;
+    right: opx;
+    margin: auto;
+    border-radius: 50%;
+    box-shadow: -0px 10px 0 0
+    #664500;
+
+}
